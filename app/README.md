@@ -1,4 +1,4 @@
-# Travel companion  App 📱
+# Travel companion  App 
 
 ## Overview
 This Android application helps international travellers convert essential
@@ -21,10 +21,10 @@ values. The app must support conversions for Currency, Fuel Efficiency, and Liqu
 - `activity_main.xml` → UI layout
 - `strings.xml` → Stores dropdown values
 
-## ▶How to Run
+## How to Run
 1. Clone the repository
 2. Open in Android Studio
-3. Click Run ▶️
+3. Click Run 
 
 ## Author
 Your Name: Patrick Acha 
